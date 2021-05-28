@@ -1,0 +1,36 @@
+body{
+	background-color: lightblue;
+}
+
+
+h1{
+	 text-align: center;
+	font-size: 30px;
+}
+
+
+#quotesdisplay{
+	  width: 400px;
+	height: 210px;
+	
+	color: red;
+	 text-align: center;
+	 position: relative;
+	top: 50%;
+	margin-left: 550px;
+	font-size: 30px;
+	 text-justify: auto;
+	text-align: justify;
+	
+}
+
+
+button{
+	text-align: center;
+		margin-left: 700px;
+	width: 200px;
+	padding: 20px;
+	background-color: transparent;
+	color: green;
+
+}
