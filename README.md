@@ -1,0 +1,2 @@
+# QuotesGenrator-javascript
+quotes genrator
